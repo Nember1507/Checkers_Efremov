@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "6565436f-084d-45d5-8d9a-231b4e2b3801": {
+      "ProjectGuid": "6565436f-084d-45d5-8d9a-231b4e2b3801",
+      "DisplayName": "Checkers_Efremov",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
