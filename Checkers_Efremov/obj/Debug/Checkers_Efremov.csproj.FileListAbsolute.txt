@@ -1,0 +1,11 @@
+C:\Users\Nember\Desktop\trpo\prac\Checkers_Efremov\Checkers_Semenova\bin\Debug\Checkers_Efremov.exe.config
+C:\Users\Nember\Desktop\trpo\prac\Checkers_Efremov\Checkers_Semenova\bin\Debug\Checkers_Efremov.exe
+C:\Users\Nember\Desktop\trpo\prac\Checkers_Efremov\Checkers_Semenova\bin\Debug\Checkers_Efremov.pdb
+C:\Users\Nember\Desktop\trpo\prac\Checkers_Efremov\Checkers_Semenova\obj\Debug\Checkers_Efremov.csproj.AssemblyReference.cache
+C:\Users\Nember\Desktop\trpo\prac\Checkers_Efremov\Checkers_Semenova\obj\Debug\Checkers_Efremov.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nember\Desktop\trpo\prac\Checkers_Efremov\Checkers_Semenova\obj\Debug\Checkers_Efremov.Form1.resources
+C:\Users\Nember\Desktop\trpo\prac\Checkers_Efremov\Checkers_Semenova\obj\Debug\Checkers_Efremov.Properties.Resources.resources
+C:\Users\Nember\Desktop\trpo\prac\Checkers_Efremov\Checkers_Semenova\obj\Debug\Checkers_Efremov.csproj.GenerateResource.cache
+C:\Users\Nember\Desktop\trpo\prac\Checkers_Efremov\Checkers_Semenova\obj\Debug\Checkers_Efremov.csproj.CoreCompileInputs.cache
+C:\Users\Nember\Desktop\trpo\prac\Checkers_Efremov\Checkers_Semenova\obj\Debug\Checkers_Efremov.exe
+C:\Users\Nember\Desktop\trpo\prac\Checkers_Efremov\Checkers_Semenova\obj\Debug\Checkers_Efremov.pdb
